@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 80px;
+    background-color: #0b1e2d;
+  }
+  
+  .hero {
+    min-height: 100vh;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+  }
+  
+  .hero-img {
+    max-height: 400px;
+  }
+  
+  .side-buttons {
+    position: fixed;
+    right: 10px;
+    top: 40%;
+    z-index: 1000;
+  }
+  
+  .side-buttons .btn {
+    background-color: black;
+    color: white;
+    width: 80px;
+  }
+   .navbar {
+    background-color: #0b1e2d;
+  }
+
+  .bordered-text {
+    color: transparent; /* no fill */
+    -webkit-text-stroke: 2px white; /* stroke thickness and color */
+  }
+  .bordered-text {
+    color: transparent; /* no fill */
+    -webkit-text-stroke: 2px white; /* stroke thickness and color */
+    
+  }
+ 
